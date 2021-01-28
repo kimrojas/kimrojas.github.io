@@ -141,7 +141,7 @@ input, select, textarea {
 		/* Added by Kurt */
 		p.major{
 			margin: 0 0 2em 0;
-			text-indent: 75px;
+			text-indent: 50px;
 			text-align: justify;
 			text-justify: inter-word;
 		}
