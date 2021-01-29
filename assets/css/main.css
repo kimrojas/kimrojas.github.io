@@ -2170,6 +2170,10 @@ input, select, textarea {
 				width: 100%;
 			}
 
+				img.educ-logo{
+					max-width: 300px;
+				}
+
 		.image.avatar {
 			border-radius: 100%;
 		}
