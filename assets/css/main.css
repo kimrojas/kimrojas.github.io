@@ -3186,7 +3186,8 @@ input, select, textarea {
 			}
 
 			header.major h2 {
-				font-size: 1.35em;
+				/* 1.35 */
+				font-size: 1.5em;
 			}
 
 		/* List */
